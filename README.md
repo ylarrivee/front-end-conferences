@@ -171,7 +171,7 @@ Sandusky, OH **USA**
 
 [**ConFoo Montreal**](https://confoo.ca/en/yul2018)  
 7-9 March, 2018  
-Monrtreal, Quebec **Canada**
+Montreal, Quebec **Canada**
 
 ## South America
 
