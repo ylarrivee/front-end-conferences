@@ -96,6 +96,10 @@ NYC, **USA**
 27-30 September 2021  
 NYC or online, **USA**
 
+[**ConFoo Hybrid 2022**](https://https://confoo.ca/en/2022)  
+22-25 February 2022  
+Montreal or online, **Canada**
+
 ## Online
 
 [**Hover CSS Conference**](https://webdirections.org/hover/)  
